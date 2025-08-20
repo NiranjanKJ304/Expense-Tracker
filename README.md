@@ -32,4 +32,3 @@ It helps users track income and expenses with JWT authentication and a clean das
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/NiranjanKJ304/Expense-Tracker.git
-cd Expense-Tracker
